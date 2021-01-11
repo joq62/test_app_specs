@@ -1,0 +1,8 @@
+[db_app_spec,"calc_b_100.app_spec","1.0.0",worker,
+ [{host,"c1"},
+  {vm_id,"calc_c1"},
+  {vm_dir,"calc_c1"}
+ ],
+ [],
+ ["calc_100.service_spec"
+]].

@@ -1,0 +1,15 @@
+[db_app_spec,"dbase_100_c0.app_spec","1.0.0",dbase,
+ [{host,"c0"},
+  {vm_id,"dbase_c0"},
+  {vm_dir,"dbase_100_c0"}
+ ],
+ [{dbase,git_user,"joq62"},
+  {dbase,git_pw,"20Qazxsw20"},
+  {dbase,cl_dir,"test_cluster_config"},
+  {dbase,cl_file,"cluster_info.hrl"},
+  {dbase,app_specs_dir,"test_app_specs"},
+  {dbase,service_specs_dir,"test_service_specs"}
+ ],
+ ["dbase_100.service_spec"
+ ]
+].
